@@ -1,5 +1,3 @@
-var HelloWorld = require('./hello_world');
-
 describe('Hello World', function() {
   var helloWorld = new HelloWorld();
 
